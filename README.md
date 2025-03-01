@@ -1,1 +1,1 @@
-# Flight-Reservation-System
+A Java-based Flight Reservation System allows users to search, book, and manage flight tickets efficiently using data structures like trees and graphs. It ensures seamless booking with real-time availability and user authentication.
